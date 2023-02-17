@@ -1,6 +1,6 @@
 # Project Name
 
-> One paragraph statement about the project.
+> A piano using CSS,responsive Design, media queries and pseudo selectors.
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,13 +8,15 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- htm;l
+- div
+- CSS
+- media query
+- pseudo selector
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://13-fcc-piano.netlify.app)
 
 ### Development (Running locally)
 
