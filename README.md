@@ -8,11 +8,21 @@ Additional description of the project and its features.
 
 ## Built With
 
-- htm;l
-- div
-- CSS
-- media query
-- pseudo selector
+- ### HTML5 elements
+  - **Heading element**
+    `h1`
+  - **Block element**
+    `div` 
+- ### CSS properties
+  - CSS media query for page responsiveness using `@media` rule,
+  - CSS positioning `absolute` `relative`
+  - CSS background for page aesthetic using `background-color`,
+  - CSS selectors `class selector` `id selector` `universal selector` `pseudo selector`
+- ### Linters
+  - [prettier](prettier),
+  - [stylelint](stylelint).
+
+### GitHub Action
 
 ## Live Demo
 
