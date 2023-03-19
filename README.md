@@ -12,7 +12,7 @@ Additional description of the project and its features.
   - **Heading element**
     `h1`
   - **Block element**
-    `div` 
+    `div`
 - ### CSS properties
   - CSS media query for page responsiveness using `@media` rule,
   - CSS positioning `absolute` `relative`
