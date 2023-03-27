@@ -4,7 +4,7 @@
 
 ![screenshot](./app_screenshot.png)
 
-Additional description of the project and its features.
+### This PR adds a piano webpage using CSS,responsive Design, media queries and pseudo selectors.
 
 ## Built With
 
