@@ -4,8 +4,6 @@
 
 ![screenshot](./app_screenshot.png)
 
-### In this project, you'll use CSS and Responsive Design to code a piano. You'll also learn about or get to use more of media queries and pseudo selectors
-
 ## Built With
 
 - ### HTML5 elements
