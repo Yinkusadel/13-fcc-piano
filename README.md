@@ -4,7 +4,7 @@
 
 ![screenshot](./app_screenshot.png)
 
-### This PR adds a piano webpage using CSS,responsive Design, media queries and pseudo selectors.
+### In this project, you'll use CSS and Responsive Design to code a piano. You'll also learn about or get to use more of media queries and pseudo selectors
 
 ## Built With
 
