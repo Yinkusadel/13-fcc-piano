@@ -1,4 +1,4 @@
-# Project Name
+# PIANO
 
 > A piano using CSS,responsive Design, media queries and pseudo selectors.
 
